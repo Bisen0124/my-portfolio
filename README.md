@@ -1,7 +1,5 @@
 # my-portfolio
-Below attached are my portfolio which based on 
-HTML, CSS, JS, Bootstrap, ReactJS, Next JS, PHP, MySql, Wordpress and Shopify
-Please have a look 
+"Attached below is my portfolio, which showcases projects built using HTML, CSS, JavaScript, Bootstrap, ReactJS, Next.js, PHP, MySQL, WordPress, and Shopify. Please have a look."
 ========================================
 
 https://tpreviewsite.aptlogica.com/hyspec/index.html
